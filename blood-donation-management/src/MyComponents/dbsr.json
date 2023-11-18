@@ -1,0 +1,54 @@
+{
+  "add_reports": [
+    {
+      "date": "2022-08-26",
+      "venue": "Dadar",
+      "organizer": "JJR",
+      "totvols": "12",
+      "totbd": "100",
+      "totbnf": "300",
+      "insta": "https/",
+      "id": 1
+    },
+    {
+      "date": "2022-08-26",
+      "venue": "Dadar",
+      "organizer": "JJR",
+      "totvols": "12",
+      "totbd": "100",
+      "totbnf": "300",
+      "insta": "https/",
+      "id": 2
+    },
+    {
+      "date": "2022-08-26",
+      "venue": "Dadar",
+      "organizer": "JJR",
+      "totvols": "12",
+      "totbd": "100",
+      "totbnf": "300",
+      "insta": "https/",
+      "id": 3
+    },
+    {
+      "date": "2022-08-22",
+      "venue": "Dadar",
+      "organizer": "JJR",
+      "totvols": "21",
+      "totbd": "200",
+      "totbnf": "600",
+      "insta": "https/",
+      "id": 4
+    },
+    {
+      "date": "2022-08-16",
+      "venue": "Sion",
+      "organizer": "JagJivanRam",
+      "totvols": "34",
+      "totbd": "100",
+      "totbnf": "300",
+      "insta": "https/instagram.com/varad_repe",
+      "id": 5
+    }
+  ]
+}

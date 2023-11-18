@@ -1,0 +1,20 @@
+{
+  "add_camp_details": [
+    {
+      "id": "1",
+      "date": "2022-08-26",
+      "venue": "Dadar",
+      "organizer": "JJR",
+      "volsneed": "12",
+      "upldfile": "event1.jpg"
+    },
+    {
+      "date": "2022-08-18",
+      "venue": "Dadar",
+      "organizer": "JJR",
+      "volsneed": "300",
+      "upldfile": "C:\\fakepath\\event1.jpeg",
+      "id": "vXVz_er"
+    }
+  ]
+}

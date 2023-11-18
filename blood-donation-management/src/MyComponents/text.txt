@@ -1,0 +1,2 @@
+npx json-server --watch src/MyComponents/dbs.json --port 8000
+npx json-server --watch src/MyComponents/dbsr.json --port 800
